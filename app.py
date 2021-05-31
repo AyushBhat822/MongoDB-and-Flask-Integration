@@ -28,21 +28,3 @@ student_2.save()
 for student_name in  Student.objects:
     if (student_name.remarks=='GOOD'):
         print (student_name.name)
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
